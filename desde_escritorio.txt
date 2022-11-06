@@ -1,0 +1,7 @@
+CREO UN NUEVO ARCHIVO LLAMADO "DESDE_ESCRITORIO.TXT"
+
+Este archivo lo he creado en el escritorio
+me servirá para probar los comandos de consola
+
+Creo el archivo y lo guardo
+Comando:  git add

@@ -4,4 +4,13 @@ Este archivo lo he creado en el escritorio
 me servirá para probar los comandos de consola
 
 Creo el archivo y lo guardo
-Comando:  git add
+Comando:  git add .   --> Agrego archivos al área de preparación 
+			el punto sirve de comodín para que prepare todos los archivos
+
+Comando: git commit -m "Esta es la primera actualización de archivos"
+			--> commit crea una instantánea completa de los archivos y los guarda en 
+			el directorio de git situado en el escritorio.
+
+Comando: git status  --> muestra la lista de archivos que han cambiado y los que están preparados.
+Comando: git push    --> he subido los datos que estaban en local, hasta la rama maestra en remoto
+Comando: git pull    --> traigo a mi carpeta local el contenido actualizado del repositorio remoto
